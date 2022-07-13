@@ -1,0 +1,4170 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/Clippit/Clippit/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.A.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.A.html",
+          "hash": "P0HmgdgsNkFGdyIEAPX1o/pDbkcte49AG5XD6ZoXIfQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.A14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.A14.html",
+          "hash": "gmNdyEBvaZUgSz+ZRx7AD1XBdTtiM37Hokw8THZ0ct8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ACTIVEX.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ACTIVEX.html",
+          "hash": "qt2KZoV+KYRUcLG5nmbsaBT0U5AO4HpOeDc5QQoQTP4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.AddDocxTextHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.AddDocxTextHelper.html",
+          "hash": "Ege1Sjtt3e8wuX9Xwm96W553Lg1slHn7ZOIIzJPV7fY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.BIBLIO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.BIBLIO.html",
+          "hash": "e2Esb/Cji05zjZ8VUl57rxSxPOOBvU5k/AD3TIxiHd4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Base64.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Base64.html",
+          "hash": "E8x1AF0RaKFBKmDxLU1KtEswVY6+TQJ7Po5jv66UjXo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.BlockContentInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.BlockContentInfo.html",
+          "hash": "ZiD7iO38M6XBJwqAkqQrRAPPhTB/RYcBLz28H4+W0+8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.BlockLevelContentValidationRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.BlockLevelContentValidationRule.html",
+          "hash": "retBghlvaI0UtNjUykQC1SaEOb11T0Wx8obTgJA2j1c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.C.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.C.html",
+          "hash": "DSkK3Wmklw3HSPAXjyFUOOeDDeZAk+Zl0KxBG4m6j50="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.CDR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.CDR.html",
+          "hash": "/5aiydcfAhG2Dw7Es9nA6O1G32SQkJV7XTPzblPe9RA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.COM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.COM.html",
+          "hash": "0Ci8BIZ8zTQWfi9H/mm4LyS2obKH27CDWmni4n179L8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.CP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.CP.html",
+          "hash": "sjNGjVeTsL+IZaPdekguKxMHWpaVZSYT81icTG+peh8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.CUSTPRO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.CUSTPRO.html",
+          "hash": "GzYbioxywLPqZXL7EDfcDXoIXXqGqu3j8Xh0dLmswf4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Cell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Cell.html",
+          "hash": "K+tP6ScqTo1rkysCPZ3HbsNYcAtq9NS8haViyER8IKM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ChartData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ChartData.html",
+          "hash": "5IvAWYwlum7vttRzVZjL2h1lHHf8wGdejQi9qYGNP0Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ChartDataType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ChartDataType.html",
+          "hash": "KgOQtE9YcW6y7FPGEOjYaANKAtpG13kSNwDkQYjUxbk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ChartUpdater.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ChartUpdater.html",
+          "hash": "DsGs8Gp7RNrUAM+tkTyqF+VP3spFokNQPzuvrEdl1Jo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ColorParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ColorParser.html",
+          "hash": "kCo1JWKZBJ1q33Gldi1cVk4+13TfMbybWuVBq1JPYM0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ColumnReferenceOutOfRange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ColumnReferenceOutOfRange.html",
+          "hash": "7sLrBQMwiHcnaxPVE3+Thf7h7CPsZWFLWOGlD/OWiqo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ComparisonUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ComparisonUnit.html",
+          "hash": "kL6uA6e4n1zxVyVh9o8dclTilxFnEHP1f6RoI4t+E44="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ComparisonUnitAtom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ComparisonUnitAtom.html",
+          "hash": "SN+vKJpti3AkFj8hgH3mBb1bnIo1vmmGxvnNBWN39bQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ContentTypeRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ContentTypeRule.html",
+          "hash": "Msyk87e8QkSsQifcepYs/AxNvRAbL59POTVzWJg0qYY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.CorrelationStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.CorrelationStatus.html",
+          "hash": "FhsPJW88lR16fvL6GuQd/ERbRtu7xQRVhU9wFxipRL8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Cx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Cx.html",
+          "hash": "nP3XDVoF/yUlPfNKLSNtO7dH8e/6jhQremPqkkD9o1k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.DC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.DC.html",
+          "hash": "bzd6Yv+SFyIcxoXRQB2f5coGi9VVB7fctyI53dVCIlg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.DCTERMS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.DCTERMS.html",
+          "hash": "M8D0lqwCHEUCQ8rMb9jRWcCjlP6C7rx2wRuo5RS5OEg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.DGM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.DGM.html",
+          "hash": "i6W2E1/dbt15JZS75mgAjHPpqhCSLT/cA71YVW23atI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.DGM14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.DGM14.html",
+          "hash": "8XDUfYhyYg+QD100fb3WwhpWOAGPOgtc3A2rfYgbzyA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.DIGSIG.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.DIGSIG.html",
+          "hash": "jrernharuu7i7vo8Y/8GeQjHY7ByAcYi1zg/tStp3P8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.DS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.DS.html",
+          "hash": "LrpissAgwExMrCOJhXiSaXT31LdkjnsAnvZe3KgLhvU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.DSP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.DSP.html",
+          "hash": "paKQid0g3Dz/+AsoAAg24AnG4R6ZFR5u1rMDwUREql4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.DescendantsReverseDocumentOrderInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.DescendantsReverseDocumentOrderInfo.html",
+          "hash": "iYuaCRmYSAZld73eXtrrZBs4rl8KwyCyxEGbjo6QFJQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.DescendantsTrimmedReverseDocumentOrderInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.DescendantsTrimmedReverseDocumentOrderInfo.html",
+          "hash": "KWvfRKnlMwbYCkZhU10MwDStqCrMBuvz6u/x4dbTkIg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.DocxMetrics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.DocxMetrics.html",
+          "hash": "rx3lpnHwPMBzE7mviV1g1rGxw2xnSLUhYx/oFHbx1Y0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.EP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.EP.html",
+          "hash": "Jphs8lrzoCOk6bI3rZtTk7s9c6S6/WOqkrGQ7o2a94c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Emu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Emu.html",
+          "hash": "dcvzNiHpDwE1VSaYy0ijOD5KqZTz6z3gs/7OHqT3AG0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Excel.Cell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Excel.Cell.html",
+          "hash": "z8Jb5EC1zqh0xETwExQkwGvek2eiAcA0eNc2R7vw2Vw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Excel.CellDataType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Excel.CellDataType.html",
+          "hash": "JnwKbBu1vCe8CLSlnQTp5k2tvMxbL2EfXcgbagqBav4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Excel.CellDfn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Excel.CellDfn.html",
+          "hash": "JUWyRPuZocqPmJV18eReUL+DVoCVcoAlYVrEOQvX/4c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Excel.HorizontalCellAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Excel.HorizontalCellAlignment.html",
+          "hash": "s5r3JmRcJoxx/Fgi7SF4adQtbSrJZn2CYdSjZGtnViY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Excel.InvalidSheetNameException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Excel.InvalidSheetNameException.html",
+          "hash": "ozdHSUiwLE5aiXIZdxypQ8PEbkRXMyZFu+ijl+mX3qA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Excel.RowDfn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Excel.RowDfn.html",
+          "hash": "ScRrAaBP3kme18NNPYN28EG4d5osKMfERQgyJs0Gyus="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Excel.SpreadsheetWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Excel.SpreadsheetWriter.html",
+          "hash": "6PKOgbWnUJ1zPFQZSJ4RO2Ic/GUiyJvtSn1tBYf76Mk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Excel.SpreadsheetWriterInternalException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Excel.SpreadsheetWriterInternalException.html",
+          "hash": "7E2viRDeMTPMEFuq8AujcVy+7iRY+QczCgCIyhJh4jo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Excel.WorkbookDfn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Excel.WorkbookDfn.html",
+          "hash": "iB0PJ9PIzwwEYw8ycbT7YGXfQZF/AcKp95MGznE/ePA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Excel.WorksheetDfn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Excel.WorksheetDfn.html",
+          "hash": "wD5c4y2t5++JDDMO8EjcVHNDLHre+NXcfxmerEkNCtE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Excel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Excel.html",
+          "hash": "PKbWVu2XLwQQ4klHLMAnO+kAo4HNFtf5j5MjhwZuN7Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ExecutableRunner.RunResults.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ExecutableRunner.RunResults.html",
+          "hash": "8nisLjqXVDFhaIB2uDFzsveV10lnpjux+dm1u12MUZ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ExecutableRunner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ExecutableRunner.html",
+          "hash": "0bPj6uzPgNdXl6N7Z2+uH04nAfzL/u7XmmxHfZaMohQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FieldInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FieldInfo.html",
+          "hash": "y6rB4WwIwg5lU3qjWnWzQDyJkEmYrSmXcxvtNwhtj+U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FieldParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FieldParser.html",
+          "hash": "ZCi3aUfwGowbWWn36SKfSyl65qAqBgWOsqTNxAuGlkQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FieldRetriever.FieldElementTypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FieldRetriever.FieldElementTypeEnum.html",
+          "hash": "F6cEWDAXUGMiY7X5wumpixw4zrABjNIexNJN3/TrH/4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FieldRetriever.FieldElementTypeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FieldRetriever.FieldElementTypeInfo.html",
+          "hash": "d3Y27OdeJWIU4MwWKKutuo2WcnA9bYLZesP5Ip7lopc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FieldRetriever.FieldElementTypeStack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FieldRetriever.FieldElementTypeStack.html",
+          "hash": "qfDm8PhHNgr0EOdOJl0ukQMYKk7lakrcarLDPfg+HWE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FieldRetriever.FieldInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FieldRetriever.FieldInfo.html",
+          "hash": "0KGNntnsHwmVUUShjS9wh2sqd1JvSSFtYBsT2ZpZZuU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FieldRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FieldRetriever.html",
+          "hash": "FRpAdAkX2vOMdBIE/jZ6vtcJ/yUtFE30IoDcBK6VNss="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FileUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FileUtils.html",
+          "hash": "K5e0xJJbvUzT2ZhNCJ7VVXDA2Ic4mC7ZPoay6xf7REE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FlatOpc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FlatOpc.html",
+          "hash": "5+9FT0NqoscV1EDWdYMPNsyxmg/9a1HCQAmTdzhdNBM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FormattingAssembler.CharStyleAttributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FormattingAssembler.CharStyleAttributes.html",
+          "hash": "Jb8Q6z5vNTDRXEsjpVkso+HXgg49TyuMo/G7nReSjUM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FormattingAssembler.FontType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FormattingAssembler.FontType.html",
+          "hash": "+DYLo8WOjv/bp4lGvWmf59u1SvX5E9dWMgvTf8cchcA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FormattingAssembler.UnsupportedLanguageException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FormattingAssembler.UnsupportedLanguageException.html",
+          "hash": "1ypX5D3HZIMcc/On31BN5uEYYKG6A20ykEmNGkbEOY4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FormattingAssembler.UnsupportedNumberingFormatException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FormattingAssembler.UnsupportedNumberingFormatException.html",
+          "hash": "KThd4QQeIyQZtJIS1lg9tkm+VRtIu9fseudyi8XGwIQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FormattingAssembler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FormattingAssembler.html",
+          "hash": "nR65Q1RjmlRzG0gjo7VG0G5NVOSPMXooApTnkwDq2u4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.FormattingAssemblerSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.FormattingAssemblerSettings.html",
+          "hash": "id9jjjvYZxrpdn4UoMWjMesRYZ2jD7OwGt3SrS243UE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.GetMetricsHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.GetMetricsHelper.html",
+          "hash": "d6ctifYn/Xr/KNYd9K2FLl8J9NvwBtiJFJjwWwk5O+c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.GlobalValidationRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.GlobalValidationRule.html",
+          "hash": "HylRaWntSNCTRboY1vC/OPHOjLVnroYS/3LrPaQcL7Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.GroupOfAdjacent-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.GroupOfAdjacent-2.html",
+          "hash": "O0Tcxpdx0YGtc3q39fMDizKi8ttBFj2WEgkfXSY2+1I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.H.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.H.html",
+          "hash": "vgnAf1VoAnrzHrU6WrKU34XMdBiu/SHBtJw1bQP3EuI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlConverter.html",
+          "hash": "mt/BmDmJ8CcCPbKYhqUyvts+HsOM45LTvbOWk7XVKKQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlConverterExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlConverterExtensions.html",
+          "hash": "5yjhoLADslK6sBqF4VXqpQ7LG8eHoLnfGL2P+jXSXAg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlConverterHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlConverterHelper.html",
+          "hash": "ubwrvu7WFMpaRGm+M/KNSnp/SvkmySKtiTRZUS/XZCY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlConverterSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlConverterSettings.html",
+          "hash": "NqGzPLghze/MV5B88Exc6nPOA2QpbN84Z8JWU8BathE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssAttribute.html",
+          "hash": "yNd/IF5syexgokA+wz0PIh8pc3xHwTV4M09DyA0NuUE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssAttributeOperator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssAttributeOperator.html",
+          "hash": "iqgx2+gTJe1xzsES9hTy3XD65AB4ju5RM7ixbby5Thc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssBuffer.html",
+          "hash": "BFkHNlGyNzLrKUR60OXWiq9sjT/DcVpENOhqcZ03DQw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssCombinator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssCombinator.html",
+          "hash": "93kC4Yyf+GyU0BwAAoFT8MZKANOFS9Y5hn8W7A7Bpug="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssDeclaration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssDeclaration.html",
+          "hash": "VGTt8ybQCW1JN1l57kSHmet9j2x7DBpuq/WWycRofPw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssDirective.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssDirective.html",
+          "hash": "7zBhlcTmL+roHpQQktoxd1QdnUKut54q0txZp322Q0Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssDirectiveType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssDirectiveType.html",
+          "hash": "FdBeAiNOd8ZSWGM0wUqb27DbpyEOWnnqG761efsxTCM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssDocument.html",
+          "hash": "aRpkE43os0iKTcsIo/E1DBpk+w3qbnB7D/x1N/e5XxI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssExpression.html",
+          "hash": "js7dkINZH+5JWoi7+DpsdH4ZD7yg3Lp4wfmDyVRzeTs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssFunction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssFunction.html",
+          "hash": "bfn4YPA4QrgMMbvOQ8YkpUTzuuZn1EmetKVX0TwwkQ0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssMedium.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssMedium.html",
+          "hash": "feH2dEhlUeBteCEU7Z/Yi8kwxJjVzy78Yl/8MS/QvE0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssParser.html",
+          "hash": "sPg/WaqcoytLtadkRJnOhQZwaGfZHG86RkWo455XnrQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssPropertyValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssPropertyValue.html",
+          "hash": "ypdN/dObsTDJK9cMr0YtVqXU5/T/UTjt6cqucKblRSw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssRuleSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssRuleSet.html",
+          "hash": "1VPf2OzlSI6jTtO5asNU8a7mw1VsYpe0QVu5MLDxJDc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssSelector.html",
+          "hash": "1astwmZDSwakou9QohgkI/6dRXGHW4Fg+L9zjgBq88c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssSimpleSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssSimpleSelector.html",
+          "hash": "o3gO4Q6IMw46/7Rh0jGGUWJnqyxIRMgfM6g1lseGH1Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssTag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssTag.html",
+          "hash": "raukbDcNkthlY3jJEnELuOhIct1El5D+lHlsnpxCEAc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssTagType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssTagType.html",
+          "hash": "UXxa6+Jm1kOJdi8OY36V1FblCzRIHVDWI+bKMgBCW4g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssTerm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssTerm.html",
+          "hash": "nCW6OZQOhDvkz0FIwxGrScKVivpV3idJ5/78kw4j6fg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssTermType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssTermType.html",
+          "hash": "FF3dNe5uA8Cu3I1qGhow7+DxrZKCsB48PBZHqn4snl0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssToken.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssToken.html",
+          "hash": "n+FOT3lZcvGI85VVWw/lDiM+j1/A7WSLIHz463+Jtl0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssUnit.html",
+          "hash": "y26x1qr2RjzomD7M+MFjb+T+mR2W/N8ErH4cOd2DVFo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssUnitOutput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssUnitOutput.html",
+          "hash": "Ah2gC5zVm2d1tscwKF0ntNtRZg3Rr27uFGRh3xBkGhA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.CssValueType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.CssValueType.html",
+          "hash": "S86NFRp6E25q8wl45gmtuIb92dDlI3q/ZWBuqkrLH24="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.Errors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.Errors.html",
+          "hash": "/PkPi5pocFDtIBpaB2q4Q8QKBhlfIYdUDGOO7KyzGr4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.FatalError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.FatalError.html",
+          "hash": "uuQQdLb0/NJlZ+mB7vQ3r8ng/Q8nVSOxVhk+jFPQGyM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.ItfDeclarationContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.ItfDeclarationContainer.html",
+          "hash": "3ypd9E0n5bmrbd7WqBcQbd7lFH9w72Kli+1GmhDjN5k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.ItfRuleSetContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.ItfRuleSetContainer.html",
+          "hash": "XzB/2HD/gYnv+kMFBNXZEmJyNodRpjI73qX6ZRLmyGY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.ItfSelectorContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.ItfSelectorContainer.html",
+          "hash": "nT/5SvJb2oplfxLkXNys1LhiqNdcDHh74PUis0MQytY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.Parser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.Parser.html",
+          "hash": "0XR47A/Q6mUeBcnMUvUvCYof1x6b+Bm9bkDnhyTHp7I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.Scanner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.Scanner.html",
+          "hash": "kiNLR58yexreZNlAmEq/7/RMsR4xorWVs4dhk+a0zm8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.UTF8Buffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.UTF8Buffer.html",
+          "hash": "VFnq33vCGglO9oF+6n959Vb+ONR8FOJsMXSsjqmVAPc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.CSS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.CSS.html",
+          "hash": "y5UIZlr/mYkPDKiw5X2RYErPucbSTUCZp57vD0n0QgQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.ElementToStyleMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.ElementToStyleMap.html",
+          "hash": "auQDraRfej8XyisdGeAjI4YLp0TLrbZHBY8PqG6Vs7A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.HtmlToWmlConverterCore.CharStyleAttributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.HtmlToWmlConverterCore.CharStyleAttributes.html",
+          "hash": "17s2RS/ogdz0fJ/8490Pt0rF1nYgnkBjnrB6w5pnHr8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.HtmlToWmlConverterCore.FontType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.HtmlToWmlConverterCore.FontType.html",
+          "hash": "SGvgUJZ/JOE10uqYUXxAMp4CzvZvMF0Jd+/7/FZ47PQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.HtmlToWmlConverterCore.NumberedItemAnnotation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.HtmlToWmlConverterCore.NumberedItemAnnotation.html",
+          "hash": "wlN8SbHZ4QrlBbBXr6xaruBD9veRbBlWWzZVyxVuha0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.HtmlToWmlConverterCore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.HtmlToWmlConverterCore.html",
+          "hash": "0TnqZaUMahc3RybblUFbKs+nQk8V8CLfwdj4ImLk3Hs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.LocalExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.LocalExtensions.html",
+          "hash": "9XDt7ToqdtYMXDcjq4xM01/IYRVWRZCAR8igQ6PQ6r8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.PictureId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.PictureId.html",
+          "hash": "29Al3NoxPBCsZKL/MQzNGqroFmuX5VWUG/EmITBPJSo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWml.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWml.html",
+          "hash": "XLesH8F+0JEVR+zAidMYVqplVEzRsTK1uFgcWtvtQ2Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWmlConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWmlConverter.html",
+          "hash": "Y2NxmD/+dPTYHsi/D8hXdV9ALfz9sIskjCtQG21ucOE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.HtmlToWmlConverterSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.HtmlToWmlConverterSettings.html",
+          "hash": "zPys0Z68PXWxdkr0XI/8sdbUTk6wU/a2hgD4/eT4YaQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.INK.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.INK.html",
+          "hash": "++DgpENULEyEQLQNpFycXkIAQkkik2MmfRyhhUJFarY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ImageInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ImageInfo.html",
+          "hash": "cjXlbZrCNWD0jAMrVIrc5vM45VheWhZZ76ZW/CJWdck="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.InvalidOpenXmlDocumentException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.InvalidOpenXmlDocumentException.html",
+          "hash": "3Y2F9bekHCu+0J+AJQ+yAk9YrLb9HyiG8Perl400fmw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.LC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.LC.html",
+          "hash": "125SJymfe7dPOkUJU7IaYe/Gtga0IN+4q26gkmQGiPk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ListItemRetriever.LevelNumbers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ListItemRetriever.LevelNumbers.html",
+          "hash": "LLsztMnbrboG1AFD6qqGGR0rvP9MDtueefGavCxV6Z8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ListItemRetriever.ListItemInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ListItemRetriever.ListItemInfo.html",
+          "hash": "0xu91KHD27jXsIg73VHXj6bk96irZ8FULmDzUvWcKh8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ListItemRetriever.ListItemSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ListItemRetriever.ListItemSource.html",
+          "hash": "Bl/tXeEkIQyrLq96k5nJ8MUAumSPowlbzsGfuqCrDCY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ListItemRetriever.ListItemSourceSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ListItemRetriever.ListItemSourceSet.html",
+          "hash": "/PldHa9oNWRpM/L+BY6Zc5EghykMnmjgKzDwwA97zQM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ListItemRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ListItemRetriever.html",
+          "hash": "PJPFMT471d/K8TkhRxwtdbHFF1QzzOKfd8ZDst3zIIk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ListItemRetrieverSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ListItemRetrieverSettings.html",
+          "hash": "OsxiGwDSU3XYYNOF8ApMiumnEXUBV6Pwzv6YjIVwnkY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ListItemTextGetter_fr_FR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ListItemTextGetter_fr_FR.html",
+          "hash": "S8HVTp/Pb0uY0XFYzOPYI4aJaJW0ngc4B82hAgANzKw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ListItemTextGetter_ru_RU.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ListItemTextGetter_ru_RU.html",
+          "hash": "tMFvVH89gz/e9fZpGI5RUk08OQTw1vydA/desBOs+nI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ListItemTextGetter_sv_SE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ListItemTextGetter_sv_SE.html",
+          "hash": "Z3LNi35IjkVWUY92N8nDBvD6dYq0xBRIlCEk6Wk56go="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ListItemTextGetter_tr_TR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ListItemTextGetter_tr_TR.html",
+          "hash": "JGuuIALoFgCTcPmonyDLBIV+gBcyvZOYIIHKmoLklO0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ListItemTextGetter_zh_CN.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ListItemTextGetter_zh_CN.html",
+          "hash": "tiHHl2rRYhD6t+m8UDSMlItplxFlGIeXtpQQgddYggo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.M.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.M.html",
+          "hash": "95mCTPegpAyiwQe7RcxPXFyGPe5h9Zcy7QvleU7emII="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MC.html",
+          "hash": "XmKcaBTDQhCk5g63bhlBUoRWBBB2IGN0coMB0jfVC/o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MDSSI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MDSSI.html",
+          "hash": "sF3F+AcKNrcsnIDQylkCLv9DDFnsB0FmM4Oq8luS4gE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MP.html",
+          "hash": "aufS5KvA0tptjjsNKhfdUK7LbOE9vGt9ECY+wuh+5H4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MV.html",
+          "hash": "L3UEYaHZ3at8CojQYrcTuzaU5noeSJ17ZVfKQy88Nrc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MarkupSimplifier.InternalException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MarkupSimplifier.InternalException.html",
+          "hash": "NlQcWJtj4eVoy36qkb1vChwph/0TahdHR72P+lGK7x8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MarkupSimplifier.InvalidSettingsException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MarkupSimplifier.InvalidSettingsException.html",
+          "hash": "deKhNHKdE21OtcNMY6vm1ul8NcjnXzFU3wh2HFt49sc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MarkupSimplifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MarkupSimplifier.html",
+          "hash": "z6/i4oisPOOW9lvYG/PR28ADjNzK9mo2dJ/m6cZrm3Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MemoryCell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MemoryCell.html",
+          "hash": "2hs0L/BLHfJDAj38qf/vbE5MM4//LtQ2NfTVAv5iaJo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MemoryRow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MemoryRow.html",
+          "hash": "JYDyDZuF7n3ZM5aQFAlSLKxcAjthFjizfM+vjKoP8sQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MemorySpreadsheet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MemorySpreadsheet.html",
+          "hash": "kW4ZmC5YFE+I7nHHyXbSV9QGZ83n8cGYS1V3DXF9hrE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MetricsGetter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MetricsGetter.html",
+          "hash": "7itMhz+wBVeXEJk21u3GI3GScH+SucpEVEAOFnTe00A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MetricsGetterSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MetricsGetterSettings.html",
+          "hash": "zXkeMjCtvseuIN06XRwDsVyJj5hMYpiLyBrSHV+eW7s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MhtParser.MhtParserPart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MhtParser.MhtParserPart.html",
+          "hash": "tDUJi7MOEXXkp8RHFISU3RY00TG1VVOiFWgtwdkLOIU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.MhtParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.MhtParser.html",
+          "hash": "/vjo//cMFiPCTxIVHzwi2uPnO9PN0CuLILPq2SmWZ0E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.NoNamespace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.NoNamespace.html",
+          "hash": "v2HZre3xpVWGzHElajxpc3Aon+6CaYr8lSZfVu1UYMI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Normalizer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Normalizer.html",
+          "hash": "E5o1rt4yIOZi3ukm7HBdpiGJMHCtic+h07gj6P9WgEk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.O.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.O.html",
+          "hash": "cz+0BCSFo5Tcl1yw1a5d379/rf47A+eZMDPWlKOEHkg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.OpenXmlMemoryStreamDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.OpenXmlMemoryStreamDocument.html",
+          "hash": "jW0IAwiZgnIJgkMFONtWop4krMWclYtFqs5c5oJtkkE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.OpenXmlPowerToolsDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.OpenXmlPowerToolsDocument.html",
+          "hash": "H3SOwBreCHwJ9O63Ny0ZC0ylCfFHTAal/H/CPOtBdZM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.OpenXmlPowerToolsException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.OpenXmlPowerToolsException.html",
+          "hash": "sn7xIXhApvWkoa9DQK2/0BwoEFvYvaoeCwGUWLL3RZk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.OpenXmlRegex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.OpenXmlRegex.html",
+          "hash": "VahAk6kauaXc6mM4RzNbW92RDl8iNmUYJLvq4NKsedU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.P.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.P.html",
+          "hash": "ZGl9BPoI49v05KdUTG4bLvoaPeDoMM2cRF0B73MWxBo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.P14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.P14.html",
+          "hash": "J9O76ne2Ko3mM1hzMba9sVatF/FuNuUZbhTUmqDbysI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.P15.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.P15.html",
+          "hash": "bTvfSjBdTPrJN50E1Cw80rKguSnlyEnvFjkpIpovCLg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PAV.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PAV.html",
+          "hash": "gCNUgMWwLEkmeX71nH4w9v+Ot4mPAcMoum+3DbVoYS0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Pic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Pic.html",
+          "hash": "utrqufbQDNrBq1CYU5pSz5X8aNWpIqjEoFQIrQZzBjM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Plegacy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Plegacy.html",
+          "hash": "+d4yMGu5Knzxof/ROGQogmTM34lcEc0DnD87TdEQ0lg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PmlDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PmlDocument.html",
+          "hash": "eDR6WQ9DvyZpbzZSJb9L/2Xn6nc3e5Q0ijnwueieay4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PowerPoint.PresentationBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PowerPoint.PresentationBuilder.html",
+          "hash": "VjiOH/fkPclg2su/00H10Gkb24bMSTnZ37CQ1USvURo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PowerPoint.PresentationBuilderException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PowerPoint.PresentationBuilderException.html",
+          "hash": "XQ+ij2QjkXKtbe2Vhhy4Sc9nyXw18kWJ/VISrK1P0hU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PowerPoint.PresentationBuilderInternalException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PowerPoint.PresentationBuilderInternalException.html",
+          "hash": "jZXSbpoWtRv3HfrSZQX3j8nrHWPIBxjP4DFTzr0eh7c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PowerPoint.SlideSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PowerPoint.SlideSource.html",
+          "hash": "yJ4TaYaiPN6X7gUyXa93TDQZ71KGIkhEVeC7PW9IMtI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PowerPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PowerPoint.html",
+          "hash": "GuDQCBGpaXW3tSCKBVWEY6H3voBuYSyZ5/Ww214Fsno="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PowerToolsBlock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PowerToolsBlock.html",
+          "hash": "mOe7XYGPtyhMth1nUAf++kjU0aphBa5GsO89tdkM6Dg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PowerToolsBlockExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PowerToolsBlockExtensions.html",
+          "hash": "EgW4jhABTmbwiKCjHTCM0C9eVdpSHlgZlXuDnLqn/gE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PowerToolsDocumentException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PowerToolsDocumentException.html",
+          "hash": "bMnSkfQ2x5Lv76wsgWPTQWnKJwsH716CveiaktgiNG8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PowerToolsInvalidDataException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PowerToolsInvalidDataException.html",
+          "hash": "XMa2+ctyMROsXSeo0kwnp/RR1JO7UcXWJSwso5jj/fo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PresentationMLUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PresentationMLUtil.html",
+          "hash": "+7s843he4Qmu6pWEJfyMXDoFNRIUrhqAeGTsdKdJPNY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Previous.ComparisonUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Previous.ComparisonUnit.html",
+          "hash": "CPTJCjntfBIll/Jl2NAhLo/ANGuj+RmaOnRutWs4BEA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Previous.ComparisonUnitAtom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Previous.ComparisonUnitAtom.html",
+          "hash": "6hyHRkqjMCWrXY7l3itBel5eQk+P8OpOktdenPdb4i8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Previous.CorrelationStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Previous.CorrelationStatus.html",
+          "hash": "Ndbk+QZ5e+ieSgLbGlNdZBD75SC/xfMFnaCnSBE8m84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Previous.WmlComparer.WmlComparerRevision.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Previous.WmlComparer.WmlComparerRevision.html",
+          "hash": "FBTmWf3zIVOdQ0jb40jPSCyRvsqhvNFrchRaMuCEN5Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Previous.WmlComparer.WmlComparerRevisionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Previous.WmlComparer.WmlComparerRevisionType.html",
+          "hash": "xI5toRiJGbfkrpxxv82ZVPYC+5J4QbRuujH1g9WqiBU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Previous.WmlComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Previous.WmlComparer.html",
+          "hash": "DqS8TRQfI2Y4UE/imZwe7v385uZGwWzSXSHmt6Oa17U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Previous.WmlComparerConsolidateSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Previous.WmlComparerConsolidateSettings.html",
+          "hash": "Xl3jcro53FzZfkfBxDgxHiAA0xq8uzYnIC+1gg+dqrQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Previous.WmlComparerSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Previous.WmlComparerSettings.html",
+          "hash": "X0beqpLQJ8N4wUhIKLL4azWdSQtlS0Jdz/LNNJuni50="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Previous.WmlRevisedDocumentInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Previous.WmlRevisedDocumentInfo.html",
+          "hash": "72057YjhxCH3zhXq5pxFaXZO7Y03kmCYe0l+JWOZees="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Previous.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Previous.html",
+          "hash": "Qk3OmH2mvg9lv1AKb6D47BWL6ARWrUYinO0qzy/yCtw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PtBucketTimer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PtBucketTimer.html",
+          "hash": "aOJUf92I61ehdsanfQxosll8md3n8zgkCy4wakW1Z68="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PtExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PtExtensions.html",
+          "hash": "gMB+JSU7QR3MVPt3ZxNC2xuOQIDRmfv7ge9yDCIHrQI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PtMainDocumentPart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PtMainDocumentPart.html",
+          "hash": "vAMBluhgbt87X0IVDc8vGvfmrAG/9G7w1mRy+D//5e0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PtOpenXml.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PtOpenXml.html",
+          "hash": "/4j49jrqsP8OfdR3UKqxbsYFODNUlcIi53cqE2XWnm0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PtOpenXmlExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PtOpenXmlExtensions.html",
+          "hash": "AV84a3VVNxsBsg5OQZZezk8899tscFd5UMo1rfwPKMc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PtUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PtUtils.html",
+          "hash": "+sraPpK1Xf/wbp19cOvb6vqLa08oY8ZffgwsTdEGt/g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.PtWordprocessingCommentsPart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.PtWordprocessingCommentsPart.html",
+          "hash": "N687mAvRfkYoRzQCkFCzpy7N74OhhusX/J348HP0gIk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.R.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.R.html",
+          "hash": "vgT4ms19rdgssPP8974b2ilK1akf2SFKELmjTDh8smk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ReferenceAdder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ReferenceAdder.html",
+          "hash": "slqVFfMvIDYofVnfUu0ZbVWjL9zhE2CMQSeOPDn81jc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.RevisionAccepter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.RevisionAccepter.html",
+          "hash": "u0F9EjHO2sjYybP1R9Xq1bzSl/9Y9plYzn8vqxc6204="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.RevisionAccepterExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.RevisionAccepterExtensions.html",
+          "hash": "jRE1E/h/BAZTxZ8FkLozXeV1Nv2dPM4LSFoYstVCO88="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.RevisionProcessor.PT.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.RevisionProcessor.PT.html",
+          "hash": "dQL00PSdaNTxbGstYUAzh1JeMbYpSjIljzRQJ1zmWko="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.RevisionProcessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.RevisionProcessor.html",
+          "hash": "1j+dFspFylLltoP32kGmz1sau6dsOeekMGch+GkHT88="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Row.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Row.html",
+          "hash": "Z2N+5+wD0/bGtkcB9sh1gCyqXRJFTY8MVkzscX7b4/I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.S.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.S.html",
+          "hash": "O3Ux3BxJqNMmFF0STIK+DMbLxlkU+DiOa11nJe1TqDA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SL.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SL.html",
+          "hash": "I0sstSo0zqIogKcoIigSa5NwAPJHalhoU6URY9hqQuQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SLE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SLE.html",
+          "hash": "33ozADHTYbHmlfnLMbzDWlj4+c47/q64MouBD9XBoV8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SSNoNamespace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SSNoNamespace.html",
+          "hash": "dTeJMxolpT3WRVnWipKxJz7kGvoekqlEe+e5aYQqMvU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SVG.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SVG.html",
+          "hash": "BP6vXxpxh0S73l2gQ1rHSDMiBtI7haTpfs7+QvV5UCM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SiblingsReverseDocumentOrderInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SiblingsReverseDocumentOrderInfo.html",
+          "hash": "CLYftgylk4pGDtOY65IjMaw1kmTXpv4pihbb5tuh3Ac="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SimplifyMarkupSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SimplifyMarkupSettings.html",
+          "hash": "rvi6Bc9PojGTvKXBAEFVFc4jv+buAn8cBtJGhTzHDoE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SizeEmu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SizeEmu.html",
+          "hash": "Mx6XQvBZhGC2PhTqS6+PveQ+qIWb673BmIiAOalAYgI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SmlCellFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SmlCellFormatter.html",
+          "hash": "+siILQk07YQNMHEo8o+l+HTreidu+sMXLY/DBFSYEOE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SmlDataRetriever.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SmlDataRetriever.html",
+          "hash": "IgOYPB5CpG+/19PODZxZ+OKLFtayJZx1c0p4brTHOC0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SmlDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SmlDocument.html",
+          "hash": "tGWIujpX6VYX1ImF+vQnP/gyk1WhlETaQdZx+aSO3+E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SmlToHtmlConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SmlToHtmlConverter.html",
+          "hash": "5kHu8qDF53s2I9+qTA0XhflUrmjaiYfF+QS6r1p6T94="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SmlToHtmlConverterSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SmlToHtmlConverterSettings.html",
+          "hash": "uK7wIOxmwDQF/rlxzehvRm9OLi6gEJNVWY1lla/J2NE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SpreadsheetDocumentManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SpreadsheetDocumentManager.html",
+          "hash": "kjpYYGASUnt9+BEbYL4M6vOYpCTWQoL69PAMhWvjOSI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.SpreadsheetMLUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.SpreadsheetMLUtil.html",
+          "hash": "iYoLTM6ptjL/yxMfgUyi9/M5Bwr384yiz9O9xIqHfVk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.StreamHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.StreamHelpers.html",
+          "hash": "ed0aYO9b8SH6AI7u+HdbPMD8FZb2KMTjmEBvcH+lCeU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.StronglyTypedBlock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.StronglyTypedBlock.html",
+          "hash": "19AOgg4DhRHDmGZ2hC2RbA/LFFZeoXNh9UYvej+GZc4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.TPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.TPoint.html",
+          "hash": "3ks67o1ZMpcBDQP6yAguIm2O3gHHL3y8rZt+37dJ8lg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Table.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Table.html",
+          "hash": "8bQ+1hzUP6t49wOpeO1YaKOIcwL+NWuYpON9wm1PexM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.TableCell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.TableCell.html",
+          "hash": "lmZg51SrcKoTzkGM5EozDYYPEG7sV8K9ly2Iqo2dNN4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.TableColumn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.TableColumn.html",
+          "hash": "AkYF+peiNjROkAgw71QxxwwqndsvJVWXr8c0bxqEWhg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.TableRow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.TableRow.html",
+          "hash": "SXp+cmJE1ppvyDYhbVc7zDb1u4VcTFk41Szcn3Ek3Bw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.TestUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.TestUtil.html",
+          "hash": "3w0QuFmukXf4YLrujQYcUUO41UUO4MNLcPYegb8HmEY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.TextReplacer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.TextReplacer.html",
+          "hash": "BnBwtqxJsr9oi4kSHaMTMB5XRNbo6hwrG+ps/JT7A0M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.TransformInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.TransformInfo.html",
+          "hash": "0OMR86W4+mO1VHUl3MH06ZIKtogVBCFqEkbtgLk6yPc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Twip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Twip.html",
+          "hash": "DVQA2LpwkOMNZT+U3rd+L5npj12nlUFy0yq7M3dEWKA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.UnicodeMapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.UnicodeMapper.html",
+          "hash": "aBj2eb9RhK3j1HO0UY+XttyydeG4D92ayGgr9NVGG4A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.UriFixer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.UriFixer.html",
+          "hash": "mnZceIemJ435LSZJu6/YF2qJEWeJB5eVZSwrknTDC4I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Util.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Util.html",
+          "hash": "hFKYlqYiTeRJfJKGi74vowYNovHLbqz60TeTF4YPoDg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.VML.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.VML.html",
+          "hash": "aU1rdwJ2PWTf7lxvOngPJT+tKOplbYY4DftFaRN/glc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.VT.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.VT.html",
+          "hash": "tg0wmj2NqwFnEVhaAZtOZ3UA3mh+TSUbGObTTz0DwwY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ValidationErrorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ValidationErrorType.html",
+          "hash": "vJuXCjQE7AXNIyBNrsi6oOJvAeO8VlfQnca9SBO0+O8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ValidationHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ValidationHelper.html",
+          "hash": "/LNo1Nj9Yxem4RdekyRSVPXsIXvQiStnE6Lab9iUHsI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.ValidationRuleDocumentTypeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.ValidationRuleDocumentTypeInfo.html",
+          "hash": "NzNjxGbFns84ztx1Lb73oDep0ALKIokurHs+w2KTU5E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.W.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.W.html",
+          "hash": "eF/iDNQnZ1M/z25W4R+QXFiwzREQ3Le1Pk8iKsnLqe0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.W10.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.W10.html",
+          "hash": "aVi4ev+H9RkmyTUan+3yl0EfljohVAFhFxMM99MQ0LU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.W14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.W14.html",
+          "hash": "lwfBWcVb5rOXLKTsWyjKIfRMlapMpvvyzgjjRHgAE2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.W15.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.W15.html",
+          "hash": "/pAjyrjpLFmAAP2eOXvhFHO2jBRWuBr5DvT0slpW/6E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.W16SE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.W16SE.html",
+          "hash": "4Kz6NRX+/Xpq780isTuLm2kvQwy/Ox91Wr2QdS2jj68="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.W3DIGSIG.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.W3DIGSIG.html",
+          "hash": "GbwiGhtRdmfoozhg/9r00SdsnbuVepVrGBD4aF6gtDw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WE.html",
+          "hash": "5VqIkAv6W1YEuWsZm8zxLwABtRf5kB/6MLER0rklghg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WETP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WETP.html",
+          "hash": "kisQ2PhXFrLFvGMciA6S0WTyAqZkfjq82BKLFwNIzDw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WNE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WNE.html",
+          "hash": "ipYd1Ev3cZmzX4D52dzyBhQhBDfoSmqN2y2aVuVPxNs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WP.html",
+          "hash": "9iEcMsLNEPJo6/GJVglnPURM8zcXonHUBPrB5rhfH/8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WP14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WP14.html",
+          "hash": "jD9UoBQxhtokHyUCp4fcwJz/8ZEo6QU/1UzrLZ7jPUI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WPC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WPC.html",
+          "hash": "h7Xu9Ekyzvdpft466LgHfp7PIZyajn5IkY21tlJJYxo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WPG.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WPG.html",
+          "hash": "rSyo/b7AorUZNAlDsAmazpQgXtT6rxDUELxBUdHia7k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WPI.html",
+          "hash": "JvOAE/H3lzeSNnwYnffo5h5LatVfJUfZZwca2PIimOA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WPS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WPS.html",
+          "hash": "SAn/QuOA1+ODWAZnlFzqo3ipuykIJJr9RS8jkYruXcs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlComparer.WmlComparerRevision.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlComparer.WmlComparerRevision.html",
+          "hash": "649vcc8PHqIDIwjfV8iW+SICLDN+GvxSvFGp8ZBbXNk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlComparer.WmlComparerRevisionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlComparer.WmlComparerRevisionType.html",
+          "hash": "zCZbowCEpwVgeUhlfLcZ/eoMuTZhV/7YcrlfBHAIwSc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlComparer.html",
+          "hash": "YumqZpcGFxHd766AD6ROMIqR1cY7agmWGn8niW3MaqA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlComparerConsolidateSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlComparerConsolidateSettings.html",
+          "hash": "1VV2PVXHOdVG2SN/nZVQnCYageb/qbQGMES3sZ2x+bo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlComparerExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlComparerExtensions.html",
+          "hash": "KL6+Q9V6CjpoB0AYj4MOd96zz2wFk2BzDYbmNqo37do="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlComparerSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlComparerSettings.html",
+          "hash": "94fG+rljoJvpXwkagxiRRgc2AAlKJT2TKRfXt5ClKac="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlDocument.html",
+          "hash": "/BCl/CrNfLHFBYY+MzlZ6hD87vH6lSlbqbrmWIcWCTI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlRevisedDocumentInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlRevisedDocumentInfo.html",
+          "hash": "+oD+muvQt2kJqFtKPbQC3ksPIWXubLTSU6miPt1MLNY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlToHtmlConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlToHtmlConverter.html",
+          "hash": "/IrvEdRymPLwBeAmzAKmfzABWRzOFjy18m1OA5682ng="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlToHtmlConverterSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlToHtmlConverterSettings.html",
+          "hash": "C8BQPgd5Xy63nZwqMolfe+dXM/TsXRCZbMlGOi1wpzk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlToXml.ContentApplierException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlToXml.ContentApplierException.html",
+          "hash": "xRcfWWiAWKkvThA+CxLO/anY0xh0sP+zNU0Kzceq/ig="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlToXml.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlToXml.html",
+          "hash": "Q3MZGTxekrKauv/NpuHEMiTQfB30jRhVDC5wAEwvEyo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlToXmlContentTypeMetrics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlToXmlContentTypeMetrics.html",
+          "hash": "NUzxDuAiBCOK0R1TIpy8mdMk8z/iuai5IKu6Jg78xwM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlToXmlProgressInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlToXmlProgressInfo.html",
+          "hash": "eOnxEZlX5eirxKGUTDZzWZEKMTZc+b4VmhW9a7yp494="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlToXmlSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlToXmlSettings.html",
+          "hash": "p+bYPURenrYKeYhgtdYz3rRjU/jJx+vTw6qJBQeUAts="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlToXmlUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlToXmlUtil.html",
+          "hash": "ABOybwh9Oegpb3f+rNUErJqIDN1BAxrPZSelR+7d24E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WmlToXmlValidationError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WmlToXmlValidationError.html",
+          "hash": "dyCC13Kvh8GrtbCu6iiWmBLp2UvPbI+CZXNj3x8CQlw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Word.DocumentAssembler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Word.DocumentAssembler.html",
+          "hash": "Q/R8LarS9n8P+6vlfNM/P8iKvfGbtyM8JRGbcBxuRKs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Word.DocumentBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Word.DocumentBuilder.html",
+          "hash": "f2wiTqWpF94IvNsoUyvZQYLwTYTfZPq4HN7+O/+d6Ng="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Word.DocumentBuilderException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Word.DocumentBuilderException.html",
+          "hash": "8heXyNbWoGFi3WwkGHqC4yIM+vdTfDoiO9GhSq0P4po="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Word.DocumentBuilderInternalException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Word.DocumentBuilderInternalException.html",
+          "hash": "PTmQ+4eWGaEVdE5L90pAjKQemx6T9wwRd384Baet66Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Word.DocumentBuilderSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Word.DocumentBuilderSettings.html",
+          "hash": "n8jvtUge1CSbxjXts4z945d1qIr6mGnXsbD+VqCH6NY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Word.ISource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Word.ISource.html",
+          "hash": "+9dziV6epd3pRicIlRICm6aj1NE1KlVY1dATwwNd4fQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Word.Source.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Word.Source.html",
+          "hash": "tvM4oHBevUsQark+InO222/bd0dQMSSBmEx0g4HxS8U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Word.TableCellSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Word.TableCellSource.html",
+          "hash": "9oGR6xmxjIo/wfSbwqlTL1Ec6kwBdmDafLDFD9tOnfg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Word.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Word.html",
+          "hash": "8gRCe0KU8s6GFRJ29eomPcg0iw+E+xsacjqxZxXCjU0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WordprocessingMLUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WordprocessingMLUtil.html",
+          "hash": "QhhP27v2SMUjW5LoIy34kfoNH3gS4mE+d8MDzEDjulc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.Border.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.Border.html",
+          "hash": "F7wPmw7clqyVaUPaixKMdIVWDaRKEx/aeblALJQQHRo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.BorderLine.LineStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.BorderLine.LineStyle.html",
+          "hash": "daj1/q7IjdB5ZEoMegPRv2M6bPdvUz8gwSZOzMOa6lU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.BorderLine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.BorderLine.html",
+          "hash": "qvnYlHI+f3n7Q4c1VAIH0KyH2HrBU+GfixNpamErwQg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.CellAlignment.Horizontal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.CellAlignment.Horizontal.html",
+          "hash": "mBeWon2soGmXr7om9KXwjWUg4JKr5rei6/CNujVMFpk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.CellAlignment.Vertical.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.CellAlignment.Vertical.html",
+          "hash": "YBHutEP0KpKqIsnuS254DUwZs3kFW6e9HxbsT24y+h4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.CellAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.CellAlignment.html",
+          "hash": "wWWIIe/DumLeGnaAG7o7MrCJcD+tPtcbASMdRzQMqFQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.ColorInfo.ColorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.ColorInfo.ColorType.html",
+          "hash": "iW5JRI0TRGJonYcI4XM8IWXnDmGCZS6gjCkuWzOcFJo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.ColorInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.ColorInfo.html",
+          "hash": "7bb9pOuyUs8nOMHlMsFWmE15nKJCgS2Z4sImIRDZ7Cw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.Font.SchemeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.Font.SchemeType.html",
+          "hash": "sCId54DMHBHj0A1XHF1TyVco4elx9FNDZOrA22FVON0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.Font.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.Font.html",
+          "hash": "9ghKLVzlGXa+1hJv9WjwCqKUGHRC8k5TRjrQNvG1vEk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.GradientFill.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.GradientFill.html",
+          "hash": "ImWE/dk7Zz3iZ+TXo6naoST/dphCL4aADMmRM7p4XDU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.GradientStop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.GradientStop.html",
+          "hash": "S/jFUXayfaslSRiUYY9yKCHF4vcNYJT0Fru9/oXm0Fo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.PatternFill.PatternType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.PatternFill.PatternType.html",
+          "hash": "jTIolGIntHsK+2pkGAa5sJhUAL2JQhBDgGcrSNVr5a0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.PatternFill.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.PatternFill.html",
+          "hash": "kZPtN0sQ9fTtzAxnmX4rwYLSJwpZ89RS3Cp52hvo72Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.PivotAxis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.PivotAxis.html",
+          "hash": "MCwDO+Bf77fMTXekOiVp/jspKCMvdDEtWwCh4Ut8B2c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAccessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAccessor.html",
+          "hash": "09yy0vPN5SCyaZT/VWVIHZzfCg8MXexgFh7K0RjAFQQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.WorksheetAlreadyExistsException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.WorksheetAlreadyExistsException.html",
+          "hash": "mEAz2+fg9pNwM3IDvBs26eSLXsOYep9PDHcLqy7K/Pw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.X.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.X.html",
+          "hash": "uB4qw+8UgqWv14jKMTFRsLp3yD+A0NKvvVphQUqenX8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.XDR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.XDR.html",
+          "hash": "K2IQy12/SvTAlBdYNGHeU9MGnks+BrrifeZ75s3TXUA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.XDR14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.XDR14.html",
+          "hash": "31ZatBiKoj8KPr/fMHnc8LOf1gstHQyiGoryNClBRIM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.XEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.XEntity.html",
+          "hash": "IQXiiEhJPzNOqb6AiW8/iUmFaWxAErMp3ghybM/y7MU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.XM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.XM.html",
+          "hash": "vJKmCQcAQZyqT7mUOiQ8rU3nooloX7Qf9Rp+XJKghmg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.XSI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.XSI.html",
+          "hash": "a22mQ4PcOV2/WwMJf1vjV44gDRxG/psj6iPZCDLCPL4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Xhtml.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Xhtml.html",
+          "hash": "r2ZXZXOWeiJ172LW6cmIXADc+qFu3YLG14hRfBRaWf8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.XhtmlNoNamespace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.XhtmlNoNamespace.html",
+          "hash": "QyQSZbOKKNmt3eqlzMTGI6pc2uHhcxxC+9UFVWdclGw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.XlsxTables.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.XlsxTables.html",
+          "hash": "pyrYJKpqMcbqPi27bMXicKwb/8hWEA8GNDJDuaF8XR0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.XmlUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.XmlUtil.html",
+          "hash": "47uilenltQ+t3SQkd8D8LAEGPqk1TFn+flULAnndg/8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.Xsi_1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.Xsi_1.html",
+          "hash": "DUK39WwYRkdlkBtwAQKwnUB8vl8ZpBTD34RZ9mAwW5M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Clippit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Clippit.html",
+          "hash": "QTIegCL2PCYvH++2qe2Sx1s4GLrACWTySTPmnSJtXbg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ExcelFormula.ParseFormula.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ExcelFormula.ParseFormula.html",
+          "hash": "+ZUrW+Dka60MrtzgsnKRoHORZ12xah9pi0IqsahiRxY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ExcelFormula.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ExcelFormula.html",
+          "hash": "dJNvOrrXvNBl5ude8PssEq+hdwjUpNnAGv4nTK8BU24="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.ECreatorPhase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.ECreatorPhase.html",
+          "hash": "iSxZZ50eOR6xhaaxm1RyzHcP/CyRcXJR5wo2Y4pZC7I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.ESpecialNodes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.ESpecialNodes.html",
+          "hash": "UbQ5bsFgdBp3F7LpPCAqkFRgdTgVhkBpsI/OoYoMq/0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.EncodingClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.EncodingClass.html",
+          "hash": "6PP3CXKGWZ7kK0yK6nyDfehQkUnSP+18N6xsxgrB8sk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.FileLoader.FileEncoding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.FileLoader.FileEncoding.html",
+          "hash": "4xQZ6A1vFB5ySpQo4pNHheKln2oKB5m5WFgRYhKbqYo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.FileLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.FileLoader.html",
+          "hash": "xiIHgeJ16P9IHsckDSuwiFnqyKD2kHCWZFty2UQvoZg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegBaseParser.Creator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegBaseParser.Creator.html",
+          "hash": "VN1xio1U5ZfoKJq0+mRG9x6S4ZM5E1v29q/Isr44aq8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegBaseParser.Matcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegBaseParser.Matcher.html",
+          "hash": "3rRn0kETH8kjKRFGhsLwvXDRnP3bX5f8Kn8MrQDKkiM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegBaseParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegBaseParser.html",
+          "hash": "y4HcrIvDUqMz3I8OP9uqn8G+xIA/6XcspMFun0+Gtnk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegBegEnd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegBegEnd.html",
+          "hash": "RjOAPCkrMw27m+U5wUcUd/Spwy0zekSTyZKP/8mXmgc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegByteParser.BytesetData.Range.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegByteParser.BytesetData.Range.html",
+          "hash": "EuRZ5Tdc8iWogHmsAA5scUPZsfGKaX921ENIXJvEO8c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegByteParser.BytesetData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegByteParser.BytesetData.html",
+          "hash": "v1QEo6QuslKSsKDjOmT4mViW5cJpzJa5OPZ+ujcxHSs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegByteParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegByteParser.html",
+          "hash": "A6PnoSg+oS433F4NOOs6eUpjs2FYSGR7MohK5E3j8yI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegCharParser.OptimizedCharset.Range.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegCharParser.OptimizedCharset.Range.html",
+          "hash": "7CLh2GQ2dm19xF9mhFp7Ng81lV540xWazAIuf952Pjs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegCharParser.OptimizedCharset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegCharParser.OptimizedCharset.html",
+          "hash": "jX3LWJPaDkLz7KOL6F+Hz6CF1M6m7O3fpVrsN/UeH5Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegCharParser.OptimizedLiterals.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegCharParser.OptimizedLiterals.html",
+          "hash": "FLXAFWKbLOc6NPF1lsSa924aIaAxL8cceHhn9LJzSfw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegCharParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegCharParser.html",
+          "hash": "wY4k5dBgF2AiS0R92Cjxo2McX0KGaSdo0Lpf2Sgv1l4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegError.html",
+          "hash": "u6uIfCd2RItDzzodezitQQmhYIL3Z+LMtZgMw2Kky7U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegException.html",
+          "hash": "c0FgsBcA3P/hmgnvd7XGEyCXRD82oSpCJElGBalv1yE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PegNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PegNode.html",
+          "hash": "QWXfsecHbbdDDQLjbu4QUupUmbyfkYYwacQPcha6daM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.PrintNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.PrintNode.html",
+          "hash": "NlFPsiSBJg7ONuDl/z95TgTC7/1pbexKLb5jucG+CMk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.TreePrint.GetNodeName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.TreePrint.GetNodeName.html",
+          "hash": "Q9JvYFZgQBdRo06fQMTr789enapvBle59rzwNBKRIrM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.TreePrint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.TreePrint.html",
+          "hash": "yJvVrM7exJTbG2mGJUgMPqan6kWpnnaJkkGnaW3xmXI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.UnicodeDetection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.UnicodeDetection.html",
+          "hash": "MCOHlInhBZbn5hzeBlkLVsRU27B8k9Jv9dHO1iF0+bQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Peg.Base.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Peg.Base.html",
+          "hash": "EKr31kiu+4Ug5EDcrQUNRJOAdkELjlTPIqB7SyL8PIk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/RELEASE_NOTES.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/RELEASE_NOTES.html",
+          "hash": "ZC3tUGFttu+QmBl6C2Qh8dfmT5lKIYmj4LOCiBiV0Ls="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "Nn89MeG/tyoJJCJhciMvMOZuShWkx0Tsa+W5K1Dv9M4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo-site.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo-site.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/word/documentassembler/image1.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/word/documentassembler/image1.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/word/documentassembler/image2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/word/documentassembler/image2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/word/documentassembler/image3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/word/documentassembler/image3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/word/documentassembler/image4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/word/documentassembler/image4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "UZft3zFRx3qc2eXAiP6ojT2v6Py6KO06kPTWAr6TAj8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "oivZvLcs4VaS7EbC6UsCztbEl0zU/8nwHTuq8S8xV1k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorials/excel/SpreadsheetWriter.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/excel/SpreadsheetWriter.html",
+          "hash": "KeKBV/VGokLjC+Nzfvqgyo4IVtqM38zri4PrwnWUUx4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorials/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/index.html",
+          "hash": "3v7KGxf0t7zjFKxift7vZ9qYYzjpxEpX7WikrXK+gOw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorials/powerpoint/BuildPresentation.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/powerpoint/BuildPresentation.html",
+          "hash": "9kBlAwo817cq3pSG6Tu3BWRRWdKu2U1Vhys399WEOOk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorials/powerpoint/BuildPresentation_PublishSlides.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/powerpoint/BuildPresentation_PublishSlides.html",
+          "hash": "UxDIExsdeesuiEVl4zGqv9ieUlMYVckFMOozQTNMFio="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "tutorials/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/toc.html",
+          "hash": "etn8wceJjt0soVhDEF4nuJCowv5ad1gM0C/QUbm0guE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorials/word/DocumentAssembler_ImagesSupport.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/word/DocumentAssembler_ImagesSupport.html",
+          "hash": "62R97ZkAjnpS7vpw9RRQh+WWKOP8yt81dtUx3K875ck="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorials/word/DocumentBuilder_CustomISource.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/word/DocumentBuilder_CustomISource.html",
+          "hash": "uwG63ANkZ6I+51EagmSNPf4AE/u6TJ+oJ6P8dyKAR2I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorials/word/DocumentBuilder_TableCellSource.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorials/word/DocumentBuilder_TableCellSource.html",
+          "hash": "FWJhu8CYwIE8SzCtdoGVIPUuH1qmbvYzPNalJDRfMcs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 9,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 324,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
