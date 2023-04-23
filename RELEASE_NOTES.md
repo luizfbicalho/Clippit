@@ -1,5 +1,23 @@
-#### 1.13.0 - Sept 18, 2022
+#### 1.13.5 - Mar 27, 2023
+- perf: improved PublishSlides perf #61
+
+#### 1.13.4 - Dec 6, 2022
+- fix: issues with 7.0 packages
+
+#### 1.13.3 - Dec 5, 2022
+- fix: PublishSlides: missing ppt/metadata for google presentations #59
+- Dependencies updated
+
+#### 1.13.2 - Oct 4, 2022
+- remove caracters to prevent > at document assembler [#57](https://github.com/sergey-tihon/Clippit/pull/57)
+- Handle W.lastRenderedPageBreak in UnicodeMapper [#58](https://github.com/sergey-tihon/Clippit/pull/58)
+
+#### 1.13.1 - Sept 27, 2022
+- `long` overload for `Cell.Number`
+
+#### 1.13.0 - Sept 27, 2022
 - DocumentFormat.OpenXml (2.18)
+- Added Cell.Bool for Excel helpers
 
 #### 1.12.2 - Jul 13, 2022
 - fix: PtOpenXmlUtil: process corrupted OpenXmlPart items [#56](https://github.com/sergey-tihon/Clippit/pull/56)

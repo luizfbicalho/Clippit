@@ -207,7 +207,7 @@ namespace Clippit.Tests.Word
         }
 
         [Theory]
-        [InlineData("DA-TemplateMaior.docx", "DA-TemplateMaior.xml", false)]
+        [InlineData("DA-TemplateMaior.docx", "DA-templateMaior.xml", false)]
         public void DATemplateMaior(string name, string data, bool err)
         {
             DA101(name, data, err);
@@ -216,12 +216,25 @@ namespace Clippit.Tests.Word
 
             var descendants = afterAssembling.MainDocumentPart.Value;
 
-
             Assert.False(descendants.Contains(">"), "Found > on text");
-
-
-            // compare result in file
         }
+
+        [Theory]
+        [InlineData("DA-xmlerror.docx", "DA-xmlerror.xml", true)]
+        public void DAXmlError(string name, string data, bool err)
+        {
+
+            var templateDocx = new FileInfo(Path.Combine(_sourceDir.FullName, name));
+            var dataFile = new FileInfo(Path.Combine(_sourceDir.FullName, data));
+
+            var wmlTemplate = new WmlDocument(templateDocx.FullName);
+            var xmlData = XElement.Load(dataFile.FullName);
+
+            var afterAssembling = DocumentAssembler.AssembleDocument(wmlTemplate, xmlData, out var returnedTemplateError);
+            var assembledDocx = new FileInfo(Path.Combine(TempDir, templateDocx.Name.Replace(".docx", "-processed-by-DocumentAssembler.docx")));
+            afterAssembling.SaveAs(assembledDocx.FullName);
+        }
+
 
         [Theory]
         [InlineData("DA025-TemplateDocument.docx", "DA-Data.xml", false)]
